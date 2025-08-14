@@ -1,4 +1,4 @@
-# Shoryu-train
+# TubeKitten
 
 Cobalt doesn't download YouTube Videos anymore, so I made my own downloader :3.
 
